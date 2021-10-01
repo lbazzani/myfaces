@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "myfaces.news",
+    "slug": "myfaces_news",
+    "version": "1.1.1",
+    "orientation": "default",
+    "icon": "./app/assets/MyFace_icon.png",
+    "splash": {
+      "image": "./app/assets/MyFace_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "./app/assets/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.myfaces.news"
+    },
+    "android": {
+      "versionCode": 2,
+      "package": "app.myfaces.news"
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": ""
+  }
+}
