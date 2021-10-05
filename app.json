@@ -2,7 +2,7 @@
   "expo": {
     "name": "myfaces.news",
     "slug": "myfaces_news",
-    "version": "1.0.0",
+    "version": "1.1.2",
     "orientation": "default",
     "icon": "./app/assets/MyFace_icon.png",
     "splash": {

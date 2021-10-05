@@ -2,16 +2,6 @@ export default {
     srvURL:"https://xpapi.xpilon.com/api",
     //srvURL:"https://xpapi.xpilon.com/dev",
     //srvURL:"http:////localhost:3000",
-
-    /*      
-    xpapp:"XP",
-    app_landing_logo: require('../app/assets/xpilon_home.jpg'),
-    app_landing_animation: require('../app/assets/AnimazioneXpilon.gif'),
-    app_logo: require('../app/assets/xpilon_logo.png'),
-    app_close_logo: require('../app/assets/close.png'),
-    brand_color: "#F15A24",
-    
-   */
   
     xpapp:"FX",
     app_landing_logo: require('../app/assets/MyFace_logo.png'),
