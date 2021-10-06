@@ -22,9 +22,12 @@ Cooming Soon on the App Sotere.
 
 For now you can clone it and use it. So: expo start and enjoy.
 
-<b>If you want to contribute if welcome. Contact me at l.bazzani@trim.it</b>
+Contribution are welcome. 
+
+For any info: l.bazzani@trim.it
 
 
-![Schermata 2021-10-05 alle 14 53 36](https://user-images.githubusercontent.com/2345980/136026513-6b3d2d70-0bc2-43ad-a21f-8652dee8e100.png)
+<img width="447" alt="Schermata 2021-10-06 alle 11 24 14" src="https://user-images.githubusercontent.com/2345980/136176426-13cc7c7d-f6a9-4977-b8cd-e389c67fc21c.png">
+
 
 
